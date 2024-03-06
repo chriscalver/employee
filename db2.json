@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Calver",
+        "category": "Coolguy",
+        "isActive": 1
+    },
+    {
+        "id": 3,
+        "name": "dan",
+        "category": "etrew",
+        "isActive": 0
+    },
+    {
+        "id": 4,
+        "name": "Ben",
+        "category": "People",
+        "isActive": 0
+    },
+    {
+        "id": 8,
+        "name": "string",
+        "category": "string",
+        "isActive": 0
+    },
+    {
+        "id": 9,
+        "name": "marvin",
+        "category": "kelly",
+        "isActive": 0
+    }
+]
